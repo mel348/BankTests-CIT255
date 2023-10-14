@@ -1,0 +1,14 @@
+C:\Users\melis\OneDrive\Desktop\CIT 255\Bank\bin\Debug\net6.0\Bank.exe
+C:\Users\melis\OneDrive\Desktop\CIT 255\Bank\bin\Debug\net6.0\Bank.deps.json
+C:\Users\melis\OneDrive\Desktop\CIT 255\Bank\bin\Debug\net6.0\Bank.runtimeconfig.json
+C:\Users\melis\OneDrive\Desktop\CIT 255\Bank\bin\Debug\net6.0\Bank.dll
+C:\Users\melis\OneDrive\Desktop\CIT 255\Bank\bin\Debug\net6.0\Bank.pdb
+C:\Users\melis\OneDrive\Desktop\CIT 255\Bank\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melis\OneDrive\Desktop\CIT 255\Bank\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+C:\Users\melis\OneDrive\Desktop\CIT 255\Bank\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+C:\Users\melis\OneDrive\Desktop\CIT 255\Bank\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\melis\OneDrive\Desktop\CIT 255\Bank\obj\Debug\net6.0\Bank.dll
+C:\Users\melis\OneDrive\Desktop\CIT 255\Bank\obj\Debug\net6.0\refint\Bank.dll
+C:\Users\melis\OneDrive\Desktop\CIT 255\Bank\obj\Debug\net6.0\Bank.pdb
+C:\Users\melis\OneDrive\Desktop\CIT 255\Bank\obj\Debug\net6.0\Bank.genruntimeconfig.cache
+C:\Users\melis\OneDrive\Desktop\CIT 255\Bank\obj\Debug\net6.0\ref\Bank.dll
